@@ -23,6 +23,6 @@
 
 Please feel free to reach out via:
 
-* **Email:** jorgemarcc@gmail.com
+* **Email:** jorgemarcc -at- gmail.com
 * **Professional Website:** https://www.jorgemar.com
 * **LinkedIn:** https://www.linkedin.com/in/jorgemartinezgil/

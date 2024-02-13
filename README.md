@@ -2,8 +2,6 @@
 # Hi 👋, I'm Jorge Martinez-Gil 
 ### Computer Scientist based in Austria
 
-[image.jpg]
-
 **About Me**
 
 * 🔭 I'm passionate about research in **Data and Knowledge Engineering**

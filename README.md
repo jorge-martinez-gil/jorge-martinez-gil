@@ -4,7 +4,7 @@
 
 **About Me**
 
-* 🔭 I'm passionate about research in **Data and Knowledge Engineering**
+* 🔭 I'm passionate about research in **Data and Knowledge Engineering**, in recent times I have also started with **Language Models**.
 * 💬 I'm always eager to discuss  and potential collaborations.
 
 **Seeking Research Collaborations**
